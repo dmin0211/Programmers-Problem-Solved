@@ -82,7 +82,7 @@
 
 * ### [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061)
   * Programmers Level : 1
-  * Repository : [2019_kakao_intership_1](https://github.com/dmin0211/2019_kakao_intership_1)
+  * Repository : [2019_kakao_intership_1](https://github.com/dmin0211/2019_kakao_internship_1)
   * Tag : Simulation, 2019 Kakao Internship
 
 * ### [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
